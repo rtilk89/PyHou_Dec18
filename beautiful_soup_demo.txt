@@ -1,0 +1,15 @@
+&lt;html&gt;
+    &lt;head&gt;
+        &lt;title&gt;SAMPLE HTML&lt;/title&gt;
+        &lt;script rel="stylesheet" href="/some/path/to/css" type="text/css"&gt;Some CSS&lt;/script&gt;
+        &lt;script src="/some/path/to/javascript" charset="utf-8" type="text/javascript"&gt;SomeJS&lt;/script&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+        &lt;p class="one" id="1"&gt;This is paragraph 1&lt;/p&gt;
+        &lt;p class="two" id="2"&gt;This is paragraph 2&lt;/p&gt;
+        &lt;p class="two" id="3"&gt;This is paragraph 3&lt;/p&gt;
+        &lt;div&gt;
+            &lt;p&gt;This is a paragraph with no properties&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/body&gt;
+&lt;/html&gt;
